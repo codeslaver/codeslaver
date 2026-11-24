@@ -8,23 +8,21 @@ Private projects are listed by name only, with no links, by design. Do not link 
 All widget URLs below were checked live 23 Nov 2026 and returned 200 SVG, except the snake,
 which appears after the snake workflow in .github/workflows runs once. -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=220&section=header&text=Muhammad%20Prabu%20Anoraga&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-native%20builder%20%7C%20B2B%20sales%20%7C%20Surabaya&descSize=18&descAlignY=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=220&section=header&text=Muhammad%20Prabu%20Anoraga&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-native%20builder%20%7C%20B2B%20sales&descSize=18&descAlignY=62)
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI-native+builder+in+Surabaya;9+years+in+B2B+industrial+sales;Now+building+AI+micro+drama" alt="Typing intro" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI-native+builder;9+years+in+B2B+industrial+sales;Building+AI+systems+since+2025" alt="Typing intro" /></a>
 </p>
 
 <p align="center">
   <a href="https://heyprabu.dev"><img src="https://img.shields.io/badge/Portfolio-heyprabu.dev-58A6FF?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:prabuanoraga@gmail.com"><img src="https://img.shields.io/badge/Email-prabuanoraga@gmail.com-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-I spent 9 years selling heavy equipment business to business in Indonesia, then started building AI systems in 2025. My work since then covers retail reporting, interview help, and AI micro drama. I write English fluently and prefer async, written-first collaboration.
+I spent 9 years selling heavy equipment business to business in Indonesia, then started building AI systems in 2025. My work since then covers retail reporting and interview help. I write English fluently and prefer async, written-first collaboration.
 
-- Building now: a pipeline for vertical AI micro drama episodes
+- Building now: AI automation for sales and operations
 - Open to: remote AI automation, SEO and AEO/GEO, and B2B sales roles
-- Based in: Indonesia, available to overlap time
-- Reach me at: prabuanoraga@gmail.com or heyprabu.dev
+- Reach me at: heyprabu.dev
 
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,typescript,go,javascript,postgres,n8n" alt="Python, TypeScript, Go, JavaScript, PostgreSQL, n8n" /></a>
@@ -78,7 +76,7 @@ These are private repositories, so there are no code links here. Each row says w
 
 ## A note on the private repos
 
-18 of my 20 repositories are private. The names and one line descriptions above are public by choice. The code stays private. One of them is left out of this page on purpose. If you want to see how one of them works, email me and I will walk you through it or record a short demo.
+18 of my 20 repositories are private. The names and one line descriptions above are public by choice. The code stays private. One of them is left out of this page on purpose. If you want to see how one of them works, reach out through my site and I will walk you through it or record a short demo.
 
 <!-- Snake appears after the snake workflow runs once, see SETUP.md. -->
 <p align="center">
