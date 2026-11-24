@@ -23,7 +23,7 @@ I spent 9 years selling heavy equipment business to business in Indonesia, then 
 - Building now: AI automation for sales and operations
 - Open to: remote AI automation, SEO and AEO/GEO, and B2B sales roles
 - Based in: Indonesia, available to overlap time
-- Reach me at: heyprabu.dev
+- Reach me at: [heyprabu.dev](https://heyprabu.dev)
 
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,typescript,go,javascript,postgres,n8n" alt="Python, TypeScript, Go, JavaScript, PostgreSQL, n8n" /></a>
