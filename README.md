@@ -22,6 +22,7 @@ I spent 9 years selling heavy equipment business to business in Indonesia, then 
 
 - Building now: AI automation for sales and operations
 - Open to: remote AI automation, SEO and AEO/GEO, and B2B sales roles
+- Based in: Indonesia, available to overlap time
 - Reach me at: heyprabu.dev
 
 <p align="center">
