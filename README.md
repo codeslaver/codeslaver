@@ -23,7 +23,7 @@ I spent 9 years selling heavy equipment business to business in Indonesia, then 
 
 - Building now: a pipeline for vertical AI micro drama episodes
 - Open to: remote AI automation, SEO and AEO/GEO, and B2B sales roles
-- Based in: Surabaya, Indonesia, working across time zones in writing first
+- Based in: Indonesia, available to overlap time
 - Reach me at: prabuanoraga@gmail.com or heyprabu.dev
 
 <p align="center">
